@@ -1,9 +1,5 @@
-# first_repo
-My first GitHub repository.
+# Numerical Integration Using C
 
-#include <stdio.h>
+This is a very basic numerical integration program written in C. 
 
-int main ()
-{
-  printf ("This is the first README.md file!")
-}
+It takes in the parameters (ordinates), and outputs the final value of the integral. 
